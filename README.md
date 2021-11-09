@@ -8,3 +8,5 @@ Basic to Advanced about Machine Learning in Python
 [DataScience Skills](datascience_skills.md)
 
 [Data Sources](data_sources.md)
+
+[Deep Learning](deep_learning.md) 

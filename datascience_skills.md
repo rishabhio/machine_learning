@@ -23,5 +23,16 @@
 
 ### Cloud ML 
 1. AWS Jupyter 
+2. Google Collab 
+3. AWS ML / DL Services 
+4. AWS Sagemaker 
+5. Microsoft Cognitive Services 
+6. Microsoft Video Analyser 
+7. Google ML Services 
 
 
+## Skill Badges 
+
+1. Tensorflow Developer Certificate 
+2. AWS Machine Learning Specialty
+3. Microsoft certified azure datascientist associate
