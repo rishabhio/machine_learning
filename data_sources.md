@@ -17,3 +17,5 @@
 
 - Deep learning has a lot to effort when it comes to recognising the usual human patterns 
 - It can be effecting in things like finding friends for human beings and like minded people 
+
+- ec2instances.info ( for info on ec2 instances )
