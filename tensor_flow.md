@@ -27,3 +27,16 @@ pip install tensorflow
 import tensorflow as tf 
 ```
 
+
+## Introduction to Tensors :: 
+
+1. Tensors are multi dimensional array with a uniform type. 
+2. Tensors can be considered analogous to numpy arrays
+3. Tensors can be considered analogous to pandas dataframe 
+4. All tensors are immutable 
+
+- supported dtypes :: 
+```
+tf.dtypes.DType
+```
+
