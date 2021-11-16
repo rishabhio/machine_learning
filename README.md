@@ -10,3 +10,5 @@ Basic to Advanced about Machine Learning in Python
 [Data Sources](data_sources.md)
 
 [Deep Learning](deep_learning.md) 
+
+[Keras](keras.md)
