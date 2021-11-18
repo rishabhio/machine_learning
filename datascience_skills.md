@@ -36,3 +36,7 @@
 1. Tensorflow Developer Certificate 
 2. AWS Machine Learning Specialty
 3. Microsoft certified azure datascientist associate
+
+
+## Approach 
+- It's not enough to know the tools, it's equally important to have the right approach towards learning. 
